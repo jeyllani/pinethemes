@@ -1,0 +1,64 @@
+{
+    "name": "PineEditorThemes",
+    "displayName": "Pine Editor Themes",
+    "description": "Themes for Pine Script V5 extension",
+    "icon": "./images/pineicone.png",
+    "version": "1.0.0",
+    "publisher": "JeylaniB",
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pine Blue Bold",
+                "uiTheme": "vs-dark",
+                "path": "./themes/pine-blue-bold.json"
+            },
+            {
+                "label": "Pine Blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/pine-blue.json"
+            },
+            {
+                "label": "Pine Editor Dark Bold",
+                "uiTheme": "vs-dark",
+                "path": "./themes/pine-editor-dark-bold.json"
+            },
+            {
+                "label": "Pine Editor Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/pine-editor-dark.json"
+            },
+            {
+                "label": "Pine Editor Light Bold",
+                "uiTheme": "vs-dark",
+                "path": "./themes/pine-editor-light-bold.json"
+            },
+            {
+                "label": "Pine Editor Light",
+                "uiTheme": "vs-dark",
+                "path": "./themes/pine-editor-light.json"
+            },
+            {
+                "label": "Pine Grey Bold",
+                "uiTheme": "vs-dark",
+                "path": "./themes/pine-grey-bold.json"
+            },
+            {
+                "label": "Pine Grey !",
+                "uiTheme": "vs-dark",
+                "path": "./themes/pine-grey-fun.json"
+            },
+            {
+                "label": "Pine Grey",
+                "uiTheme": "vs-dark",
+                "path": "./themes/pine-grey.json"
+            }
+        ]
+    }
+}
