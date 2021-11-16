@@ -26,27 +26,7 @@
 If you want to report an error or want to suggest anything [e-mail](mailto:jeylanib@protonmail.com)
 
 ---
-#### Support Us
-
-If you find this extension useful and want to support us
-<center>
-<div id="donate-button-container">
-<div id="donate-button"></div>
-<script src="https://www.paypalobjects.com/donate/sdk/donate-sdk.js" charset="UTF-8"></script> 
-<script>
-PayPal.Donation.Button({
-env:'production',
-hosted_button_id:'PRW27XGLFKGZW',
-image: {
-src:'https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif',
-alt:'Donate with PayPal button',
-title:'PayPal - The safer, easier way to pay online!',
-}
-}).render('#donate-button');
-</script>
-
-</div></center>
-
+#### Support Us [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PRW27XGLFKGZW)
 ---
 
 ##### Version 
