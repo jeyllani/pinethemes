@@ -1,6 +1,6 @@
 <p align="center"> <img src="images/pineicon.png"> </p>
-<center> <h2> Pine Themes </h2> </center>
-<center> <h3> Complement for ⭐ Pine Script V5 Syntax Highlighting & Snippets ⭐ extension </h2> </center>
+<h2  align="center"> Pine Themes </h2> 
+ <h3 align="center"> Complement for ⭐ Pine Script V5 Syntax Highlighting & Snippets ⭐ extension </h3>
 
 ---
 
