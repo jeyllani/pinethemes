@@ -1,4 +1,4 @@
-<p align="center"> <img src="images/pineicon.png"> </p>
+<p align="center"> <img src="https://github.com/jeyllani/pinethemes/blob/main/images/pineicon.png?raw=true"> </p>
 <h2  align="center"> Pine Themes </h2> 
  <h3 align="center"> Complement for ⭐ Pine Script V5 Syntax Highlighting & Snippets ⭐ extension </h3>
 
@@ -17,7 +17,7 @@
 
 ---
 
-<img src="images/themes.gif" width="100%" height="100%">
+<img src="https://github.com/jeyllani/pinethemes/blob/main/images/themes.gif?raw=true" width="100%" height="100%">
 
 ---
 
