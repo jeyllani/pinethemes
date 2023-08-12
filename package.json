@@ -16,18 +16,22 @@
 		"Themes"
 	],
 	"keywords": [
-        "pine",
-        "pinescript",
-        "Pine Script V5",
-        "pine script",
-        "pinecode",
-        "pine code",
-        "pineeditor",
-        "pine editor",
-        "tradingview",
-        "trade",
-        "trading"
-    ],
+		"pine",
+		"pine theme",
+		"pinescript theme",
+		"pine editor themes",
+		"pineeditor themes",
+		"pinescript",
+		"Pine Script V5",
+		"pine script",
+		"pinecode",
+		"pine code",
+		"pineeditor",
+		"pine editor",
+		"tradingview",
+		"trade",
+		"trading"
+	],
 	"contributes": {
 		"themes": [
 			{
@@ -44,6 +48,11 @@
 				"label": "Pine Editor Dark Bold",
 				"uiTheme": "vs-dark",
 				"path": "./themes/pine-editor-dark-bold.json"
+			},
+			{
+				"label": "Pine Editor Dark Original",
+				"uiTheme": "vs-dark",
+				"path": "./themes/pine-editor-dark-original.json"
 			},
 			{
 				"label": "Pine Editor Dark",
@@ -83,8 +92,13 @@
 	},
 	"homepage": "https://github.com/jeyllani/pinethemes/blob/190c973bc31e4e366a1dcc84938684dd13afc092/README.md",
 	"__metadata": {
-		"id": "a5cec9a9-bc96-4c41-926c-4cca207a4a4b",
+		"id": "194eb46f-8bd9-4a4f-9189-8d0a6ca462a9",
 		"publisherDisplayName": "JeylaniB",
-		"publisherId": "d46746af-1cf4-4707-b9a0-e13a48924ebf"
+		"publisherId": "d46746af-1cf4-4707-b9a0-e13a48924ebf",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1691792523192,
+		"preRelease": false
 	}
 }
